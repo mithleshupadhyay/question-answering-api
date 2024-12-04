@@ -1,0 +1,19 @@
+# Python-related files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Uploaded files
+uploads/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Ignore environment-specific or secret files
+.env
